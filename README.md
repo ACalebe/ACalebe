@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Python-0C0E12?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-0C0E12?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-0C0E12?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0C0E12?style=flat-square&logo=langchain&logoColor=white" />
   
   <br /><br />
   
@@ -30,13 +31,12 @@
   <img src="https://img.shields.io/badge/Google_Gemini-0C0E12?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/xAI_Grok-0C0E12?style=flat-square&logo=x&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_Codex-0C0E12?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-0C0E12?style=flat-square&logo=langchain&logoColor=white" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ACalebe&show_icons=true&hide_border=true&bg_color=0C0E1200&title_color=ffffff&text_color=8b949e&icon_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ACalebe&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://streak-stats.demolab.com?user=ACalebe&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&sideNums=ffffff&sideLabels=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff" />
 </div>
 
@@ -44,9 +44,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ACalebe/ACalebe/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ACalebe/ACalebe/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ACalebe/ACalebe/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ACalebe/ACalebe/main/profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ACalebe/ACalebe/main/profile-3d-contrib/profile-gitblock.svg">
+    <img alt="3D GitHub Contribution Calendar" src="https://raw.githubusercontent.com/ACalebe/ACalebe/main/profile-3d-contrib/profile-night-view.svg">
   </picture>
 </div>
 
