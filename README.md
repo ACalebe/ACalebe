@@ -43,16 +43,6 @@
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ACalebe/ACalebe/main/profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ACalebe/ACalebe/main/profile-3d-contrib/profile-gitblock.svg">
-    <img alt="3D GitHub Contribution Calendar" src="https://raw.githubusercontent.com/ACalebe/ACalebe/main/profile-3d-contrib/profile-night-view.svg">
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
   <a href="https://instagram.com/ariel_calebe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0C0E12?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
