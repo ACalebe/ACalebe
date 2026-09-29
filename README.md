@@ -10,11 +10,14 @@
 
 <div align="center">
   <h3>Stack & Tools</h3>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" />
 </div>
 
@@ -41,7 +44,7 @@
   <a href="https://instagram.com/ariel_calebe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://ACalebe.github.io" target="_blank">
+  <a href="https://portfolio-arielcalebe.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio">
   </a>
 </div>
