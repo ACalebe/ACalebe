@@ -28,6 +28,9 @@
   <h3>AI Workflow & Tooling</h3>
   <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/xAI_Grok-000000?style=flat-square&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
 </div>
 
 <br />
