@@ -1,6 +1,6 @@
 <!-- Header animado com Typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Calebe!+👋;Frontend+Developer+@+Billi;Construindo+o+EloHub360+🚀;Movido+a+código+e+IA+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Calebe!+👋;Frontend+Developer+@+Billi;Construindo+o+EloHub360+🚀;Movido+a+código+e+IA+🤖" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -34,8 +34,8 @@
 *(Sim, eu conto os meus commits privados também!)*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ACalebe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACalebe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ACalebe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ACalebe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ---
