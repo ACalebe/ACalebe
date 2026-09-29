@@ -1,15 +1,16 @@
 <div align="center">
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Specialist;Crafting+digital+experiences" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Ariel%20Calebe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer&descSize=20&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
   <br />
   <p align="center" style="color: #8b949e;">
-    <em>Transforming complex problems into elegant, scalable interfaces.</em>
+    <em>Building the future at Billi & EloHub360. Transforming complex problems into elegant interfaces.</em>
   </p>
   <br />
 </div>
 
 <div align="center">
-  <h3>Stack & Tools</h3>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
@@ -25,7 +26,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ACalebe&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ACalebe&layout=compact&langs_count=5&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=ACalebe&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&sideNums=ffffff&sideLabels=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff" />
 </div>
 
 <br />
