@@ -43,6 +43,12 @@
 <br />
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=1000&color=4af626&width=600&lines=~%2FEloHub360%20(main)%24%20npm%20run%20build;Building%20production%20application...;Compiled%20successfully%20in%204.2s;Deploying%20to%20production...;~%2FEloHub360%20(main)%24%20System%20Online!&multiline=true" />
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://instagram.com/ariel_calebe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0C0E12?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
