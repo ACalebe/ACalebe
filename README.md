@@ -6,13 +6,13 @@
   <br />
   <p align="center" style="color: #8b949e;">
     <em>Architecting and developing end-to-end scalable products.</em><br/>
-    <em>Building EloHub360 from the ground up — empowered by Claude & Gemini 🤖✨</em>
+    <em>Building the EloHub360 infrastructure and platform from the ground up.</em>
   </p>
   <br />
 </div>
 
 <div align="center">
-  <h3>Stack & Tools</h3>
+  <h3>Engineering Stack</h3>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
@@ -22,6 +22,12 @@
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" />
+  
+  <br /><br />
+  
+  <h3>AI Workflow & Tooling</h3>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white" />
 </div>
 
 <br />
