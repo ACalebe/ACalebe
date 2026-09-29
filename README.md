@@ -5,7 +5,8 @@
 <div align="center">
   <br />
   <p align="center" style="color: #8b949e;">
-    <em>Architecting and developing end-to-end scalable products.<br/>Building the future at Billi & EloHub360 from the ground up.</em>
+    <em>Architecting and developing end-to-end scalable products.</em><br/>
+    <em>Building EloHub360 from the ground up — empowered by Claude & Gemini 🤖✨</em>
   </p>
   <br />
 </div>
