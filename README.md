@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Ariel%20Calebe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer&descSize=20&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Ariel%20Calebe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Software%20Engineer&descSize=20&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
   <br />
   <p align="center" style="color: #8b949e;">
-    <em>Building the future at Billi & EloHub360. Transforming complex problems into elegant interfaces.</em>
+    <em>Architecting and developing end-to-end scalable products.<br/>Building the future at Billi & EloHub360 from the ground up.</em>
   </p>
   <br />
 </div>
 
 <div align="center">
+  <h3>Stack & Tools</h3>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
