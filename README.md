@@ -2,14 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0C0E12&height=200&section=header&text=Ariel%20Calebe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Software%20Engineer&descSize=20&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
 </div>
 
-<div align="center">
-  <br />
-  <p align="center" style="color: #8b949e;">
-    <em>Architecting and developing end-to-end scalable products.</em><br/>
-    <em>Building the EloHub360 infrastructure and platform from the ground up.</em>
-  </p>
-  <br />
-</div>
+<br />
 
 <div align="center">
   <h3>Engineering Stack</h3>
