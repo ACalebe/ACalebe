@@ -43,7 +43,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=1000&color=4af626&width=600&lines=~%2FEloHub360%20(main)%24%20npm%20run%20build;Building%20production%20application...;Compiled%20successfully%20in%204.2s;Deploying%20to%20production...;~%2FEloHub360%20(main)%24%20System%20Online!&multiline=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=1000&color=4af626&width=600&lines=~%2FEloHub360%20%28main%29%24%20npm%20run%20build%3BBuilding%20production%20application...%3BCompiled%20successfully%20in%204.2s%3BDeploying%20to%20production...%3B~%2FEloHub360%20%28main%29%24%20System%20Online%21&multiline=true" />
 </div>
 
 <br />
